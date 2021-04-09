@@ -1,1 +1,1 @@
-# Decision-making-for-profit-optimization
+In this project, decision tree was built in Microsoft Excel using Precision tree tool. The data from Bharat Bazar was collected. The problem of the store was mentioned and a solution for the problem was given.
